@@ -1,7 +1,4 @@
 <img src="line.gif" width="100%">
-<div>
-  <img src="top.png" width="100%">
-  </div>
 <div align="center">
   <img src="header.png">
 </div>
