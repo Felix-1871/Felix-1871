@@ -3,13 +3,14 @@
 <div align="center">
   <img src="header.png">
 </div>
-<h3 align="center">Hi, I'm Laura, girl a bit too crazy about Felix Argyle from Re:Zero.
+<h3 align="center">Hi, I'm Laura, girl currently studying Computer Science, a bit too crazy about Felix Argyle from Re:Zero.
 
 <div align="center">
-  I'm a Computer Science student. I love designing and creating something that'll help me or people around. Here you'll find my projects :)
+ I love designing and creating something that'll help me or people around. Here you'll find my projects :)
 </div>
 
-<hr>
+<img src="line.gif" width="100%">
+
 <div align="center">
     <strong>🖥️ OSes:</strong>
 <br>
@@ -72,7 +73,7 @@
   <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge&labelColor=black">
   </div>
 
-  <hr>
+  <img src="line.gif" width="100%">
 
 <div align="center">
 
@@ -85,11 +86,11 @@
 
 </div>
 
-<hr>
+<img src="line.gif" width="100%">
 
 <div align="center">
 
-<strong>Discord:</strong>
+<strong>Discord Status:</strong>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/822053527055630386)](https://discord.com/users/822053527055630386)
 <br>
