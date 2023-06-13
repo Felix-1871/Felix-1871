@@ -1,4 +1,8 @@
+<div align="center">
+  
 ## Hi there 👋 On the internet i go by Felix 🙂
+  
+</div>
 <div align="center">
   <strong>🖥️ OSs' Poweruser:</strong>
 <br>
@@ -65,12 +69,11 @@
   <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge&labelColor=black">
   
   </div>
-
-  <img src="line.gif" width="100%">
+  </div>
 
 <div align="center">
 
-  <strong>📫 Contact:</strong>
+  ## 📫 Contact
 <br>
 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black">\
