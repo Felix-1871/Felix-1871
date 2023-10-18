@@ -1,70 +1,61 @@
 <div align="center">
   
-## Hi there 👋 On the internet i go by Felix 🙂
+# Hi there 👋 On the internet i go by Felix 🙂
   
 </div>
-<div align="center">
-  <strong>🖥️ OSs' Poweruser:</strong>
+<div>
+  <strong>🖥️ Current OS:</strong>
 <br>
-  <img src="https://img.shields.io/badge/-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white&style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/-Windows%2010-0078D6?logo=windows&logoColor=white&style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge&labelColor=black">
+  <img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&style=for-the-badge&labelColor=black">
 <br>
-  -
+  
 <br>
-  <strong>⌨️ Languages:</strong>
+  <strong>⌨️ Languages I'm most proficient at:</strong>
   <br>
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&style=for-the-badge&labelColor=black">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&labelColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&labelColor=black">
 <br>
-  -
+  
 <br>
-  <strong>📚 Frameworks and Libraries:</strong>
+  <strong>📚 Frameworks and Libraries i mostly utilise:</strong>
   <br>
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white&style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&labelColor=black">
+  <img src="https://img.shields.io/badge/Nuxt.JS-00DC82?style=for-the-badge&logo=nuxtdotjs&labelColor=black">
 <br>
-  -
+  
 <br>
-  <strong>📱 IDEs/Editors:</strong>
+  <strong>📱 My IDEs:</strong>
   <br>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublimetext&logoColor=white&style=for-the-badge&labelColor=black">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&labelColor=black">
+  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&style=for-the-badge&labelColor=black">
 <br>
-  -
+  
 <br>
-  <strong>🎨 Design:</strong>
+  <strong>🎨 For design i typically use:</strong>
 <br>
-    <img src="https://img.shields.io/badge/-Krita-203759?logo=krita&logoColor=white&style=for-the-badge&labelColor=black">
-    <img src="https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge&labelColor=black">
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&labelColor=black">
+    <img src="https://img.shields.io/badge/-Krita-203759?logo=krita&style=for-the-badge&labelColor=black">
+    <img src="https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&style=for-the-badge&labelColor=black">
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&style=for-the-badge&labelColor=black">
 <br>
-  -
+  
 <br>
   <strong>🤌 Version Control:</strong>
 <br>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&labelColor=black">
 <br>
-  -
+  
 <br>
-  <strong>📖 Databases:</strong>
+  <strong>📖 Databases i usually work with:</strong>
 <br>
-  <img src="https://img.shields.io/badge/teradata-F37440?logo=teradata&logoColor=white&style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/-SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge&labelColor=black">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&style=for-the-badge&labelColor=black">
+  <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&style=for-the-badge&labelColor=black">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black"> 
 <br>
-  - 
+  
   <br>
-  <strong>🕸️ Not related to coding:</strong>
+  <strong>🕸️ Others:</strong>
   <br>
-    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge&labelColor=black">
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge&labelColor=black">
   <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge&labelColor=black">
   
@@ -77,7 +68,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black">\
- <a href="https://discord.com/users/822053527055630386"> Feli_x#7527</a>
+ <a href="https://discord.com/users/822053527055630386"> Felix</a>
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black">\
   fellixmanning@gmail.com
