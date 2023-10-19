@@ -57,7 +57,7 @@
   <strong>🕸️ Others:</strong>
   <br>
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge&labelColor=black">
+  <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&style=for-the-badge&labelColor=black">
   
   </div>
   </div>
@@ -67,13 +67,13 @@
   ## 📫 Contact
 <br>
 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black">\
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&labelColor=black">\
  <a href="https://discord.com/users/822053527055630386"> Felix</a>
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black">\
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&labelColor=black">\
   fellixmanning@gmail.com
   
- <img src="https://img.shields.io/badge/Personal%20Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=black">
+ <img src="https://img.shields.io/badge/Personal%20Website-FF7139?style=for-the-badge&logo=firefox&labelColor=black">
   
   In progress :3
 
