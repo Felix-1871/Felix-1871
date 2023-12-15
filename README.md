@@ -3,7 +3,8 @@
 # Hi there 👋 On the internet i go by Felix 🙂
   
 </div>
-<div>
+<div style ="display: flex;">
+<div style = "flex:1;">
   <strong>🖥️ Current OS:</strong>
 <br>
   <img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&style=for-the-badge&labelColor=black">
@@ -60,9 +61,9 @@
   <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&style=for-the-badge&labelColor=black">
   
   </div>
-  </div>
 
-<div align="center">
+
+<div style="flex:1;">
 
   ## 📫 Contact
 <br>
@@ -77,11 +78,11 @@
   
   In progress :3
 
-</div>
+
 
 <img src="line.gif" width="100%">
 
-<div align="center">
+
 
 <strong>Discord Status:</strong>
 
