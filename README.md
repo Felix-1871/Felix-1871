@@ -3,8 +3,6 @@
 # Hi there 👋 On the internet i go by Felix 🙂
   
 </div>
-<div style ="display: flex;">
-<div style = "flex:1;">
   <strong>🖥️ Current OS:</strong>
 <br>
 
@@ -42,10 +40,6 @@
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge&labelColor=black">
   <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&style=for-the-badge&labelColor=black">
   
-  </div>
-
-<div style="flex:1;">
-
 ## 📫 Contact
 
 <br>
@@ -53,11 +47,10 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&labelColor=black)\
  <a href="https://discord.com/users/822053527055630386"> Felix</a>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&labelColor=black)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&labelColor=black)\
   [fellixmanning@gmail.com](mailto:fellixmanning@gmail.com)
   
-![Personal Website](https://img.shields.io/badge/Personal%20Website-FF7139?style=for-the-badge&logo=firefox&labelColor=black)
-  
+![Personal Website](https://img.shields.io/badge/Personal%20Website-FF7139?style=for-the-badge&logo=firefox&labelColor=black)\
   In progress :3
 
 <strong>Discord Status:</strong>
@@ -67,4 +60,3 @@
 <strong>🎶 Spotify:</strong>
 <br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=c9zc9bemofiuft4ou4x4mp516&unique={true})
-</div>
